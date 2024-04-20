@@ -1,11 +1,3 @@
-# Codeforces problem
-
-
-# Problem B diverse substrings
-
-## Link: https://codeforces.com/contest/1748/problem/B
-### Resolution:
-``` c++
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -44,5 +36,3 @@ int main()
     
     return 0;
 }
-```
-Day 20/04/2024 solved with RenzoSC
