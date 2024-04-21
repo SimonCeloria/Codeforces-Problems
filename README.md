@@ -58,8 +58,10 @@ Day 20/04/2024 solved with RenzoSC
 
 
 # Problem A cheap travel
+## Id: 466A
 **Link:** [Problem A: cheap travel](https://codeforces.com/problemset/problem/466/A)
 ### Resolution:
+
 ``` c++
 #include <bits/stdc++.h>
 
@@ -82,8 +84,9 @@ int main()
 ```
 Day 20/04/2024 solved with RenzoSC
 
-# 706B B. Interesting drink
+# Problem B Interesting drink
 **Link:** [Problem B: interesting drink](https://codeforces.com/problemset/problem/706/B)
+## Id: 706B
 ### Resolution:
 ``` c++
 #include <bits/stdc++.h>
@@ -107,8 +110,9 @@ int main()
 ```
 Day 20/04/2024 solved with RenzoSC
 
-# 4A A. Watermelon
+# Problem A Watermelon
 **Link:** [Problem A: watermelon](https://codeforces.com/problemset/problem/4/A)
+## Id: 4A
 ### Resolution:
 ``` c++
 #include<bits/stdc++.h>
@@ -132,8 +136,9 @@ return 0;
 }
 ```
 
-# 71A A. Way Too Long Words
+# Problem A Way Too Long Words
 **Link:** [Problem A: way_too_long_words](https://codeforces.com/contest/71/problem/A)
+## Id: 71A
 ### Resolution:
 
 ``` c++
