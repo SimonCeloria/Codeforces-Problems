@@ -13,7 +13,7 @@
 # Problem B diverse substrings
 
 **Link:** [Problem B: diverse substrings](https://codeforces.com/contest/1748/problem/B)
-# ID: -
+### ID: -
 ### Resolution:
 ``` c++
 #include <bits/stdc++.h>
@@ -59,7 +59,7 @@ Day 20/04/2024 solved with RenzoSC
 
 
 # Problem A cheap travel
-# ID: 466A
+### ID: 466A
 **Link:** [Problem A: cheap travel](https://codeforces.com/problemset/problem/466/A)
 ### Resolution:
 
@@ -87,7 +87,7 @@ Day 20/04/2024 solved with RenzoSC
 
 # Problem B Interesting drink
 **Link:** [Problem B: interesting drink](https://codeforces.com/problemset/problem/706/B)
-# ID: 706B
+### ID: 706B
 ### Resolution:
 ``` c++
 #include <bits/stdc++.h>
@@ -113,7 +113,7 @@ Day 20/04/2024 solved with RenzoSC
 
 # Problem A Watermelon
 **Link:** [Problem A: watermelon](https://codeforces.com/problemset/problem/4/A)
-# ID: 4A
+### ID: 4A
 ### Resolution:
 ``` c++
 #include<bits/stdc++.h>
@@ -139,7 +139,7 @@ return 0;
 
 # Problem A Way Too Long Words
 **Link:** [Problem A: way_too_long_words](https://codeforces.com/contest/71/problem/A)
-# ID: 71A
+### ID: 71A
 ### Resolution:
 
 ``` c++
