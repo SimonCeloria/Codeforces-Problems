@@ -12,8 +12,8 @@
 
 # Problem B diverse substrings
 
-**Link:** [Problem B: diverse substrings](https://codeforces.com/contest/1748/problem/B)
-~ID: - ~
+**Link:** [Problem B: diverse substrings](https://codeforces.com/contest/1748/problem/B)  
+ID: -
 ### Resolution:
 ``` c++
 #include <bits/stdc++.h>
@@ -59,8 +59,8 @@ Day 20/04/2024 solved with RenzoSC
 
 
 # Problem A cheap travel
-**Link:** [Problem A: cheap travel](https://codeforces.com/problemset/problem/466/A)
-~ID: 466A~
+**Link:** [Problem A: cheap travel](https://codeforces.com/problemset/problem/466/A)  
+ID: 466A
 ### Resolution:
 
 ``` c++
@@ -86,8 +86,8 @@ int main()
 Day 20/04/2024 solved with RenzoSC
 
 # Problem B Interesting drink
-**Link:** [Problem B: interesting drink](https://codeforces.com/problemset/problem/706/B)
-~ID: 706B~
+**Link:** [Problem B: interesting drink](https://codeforces.com/problemset/problem/706/B)  
+ID: 706B
 ### Resolution:
 ``` c++
 #include <bits/stdc++.h>
@@ -112,8 +112,8 @@ int main()
 Day 20/04/2024 solved with RenzoSC
 
 # Problem A Watermelon
-**Link:** [Problem A: watermelon](https://codeforces.com/problemset/problem/4/A)
-~ID: 4A~
+**Link:** [Problem A: watermelon](https://codeforces.com/problemset/problem/4/A)  
+ID: 4A
 ### Resolution:
 ``` c++
 #include<bits/stdc++.h>
