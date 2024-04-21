@@ -1,9 +1,18 @@
 # Codeforces problem
 
 
+ Soluciones de Problemas de Codeforces En este documento se encuentran las soluciones a varios problemas de Codeforces:
+  - [Problem B: diverse substrings](#problem-b-diverse-substrings) 
+  - [Problem A: cheap travel](#problem-a-cheap-travel)
+  - [Problem B: interesting drink](#problem-b-interesting-drink)
+  - [Problem A: watermelon](#problem-a-watermelon)
+  - [Problem A: way too long words](#problem-a-way-too-long-words)
+ ---
+
+
 # Problem B diverse substrings
 
-## Link: https://codeforces.com/contest/1748/problem/B
+**Link:** [Problem B: diverse substrings](https://codeforces.com/contest/1748/problem/B)
 ### Resolution:
 ``` c++
 #include <bits/stdc++.h>
@@ -49,7 +58,7 @@ Day 20/04/2024 solved with RenzoSC
 
 
 # 466A A. cheap travel
-## Link: https://codeforces.com/problemset/problem/466/A
+**Link:** [Problem A: cheap travel](https://codeforces.com/problemset/problem/466/A)
 ### Resolution:
 ``` c++
 #include <bits/stdc++.h>
@@ -74,7 +83,7 @@ int main()
 Day 20/04/2024 solved with RenzoSC
 
 # 706B B. Interesting drink
-## Link: https://codeforces.com/problemset/problem/706/B
+**Link:** [Problem B: interesting drink](https://codeforces.com/problemset/problem/706/B)
 ### Resolution:
 ``` c++
 #include <bits/stdc++.h>
@@ -99,7 +108,7 @@ int main()
 Day 20/04/2024 solved with RenzoSC
 
 # 4A A. Watermelon
-## link: https://codeforces.com/problemset/problem/4/A
+**Link:** [Problem A: watermelon](https://codeforces.com/problemset/problem/4/A)
 ### Resolution:
 ``` c++
 #include<bits/stdc++.h>
@@ -124,7 +133,7 @@ return 0;
 ```
 
 # 71A A. Way Too Long Words
-## link: https://codeforces.com/contest/71/problem/A
+**Link:** [Problem A: way_too_long_words](https://codeforces.com/contest/71/problem/A)
 ### Resolution:
 
 ``` c++
