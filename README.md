@@ -138,8 +138,8 @@ return 0;
 ```
 
 # Problem A Way Too Long Words
-**Link:** [Problem A: way_too_long_words](https://codeforces.com/contest/71/problem/A)
-~ID: 71A~
+**Link:** [Problem A: way_too_long_words](https://codeforces.com/contest/71/problem/A)  
+ID: 71A
 ### Resolution:
 
 ``` c++
