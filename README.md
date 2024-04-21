@@ -57,7 +57,7 @@ int main()
 Day 20/04/2024 solved with RenzoSC
 
 
-# 466A A. cheap travel
+# Problem A a cheap travel
 **Link:** [Problem A: cheap travel](https://codeforces.com/problemset/problem/466/A)
 ### Resolution:
 ``` c++
